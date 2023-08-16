@@ -1,1 +1,1 @@
-### This is a place to hold my past course assignment codes.
+### This is a place to hold my past course assignment codes. I will use this repository as tool to review my past work. There is only source code currently. I will supplement relevant documents such as makefile gradually.
